@@ -1,0 +1,2 @@
+# azureproject
+staticwebapp
