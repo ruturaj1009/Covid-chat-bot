@@ -32,13 +32,18 @@ This is a Informational bot application for health related to give information a
 - Language Studio
 - Java Script
 
-## Screenshots
+### Screenshots
+## Home
 ![Home](https://user-images.githubusercontent.com/81427391/198737254-edaa339c-af9e-4024-9cfb-cc1a76a3d779.png)
 
+## About
 ![About](https://user-images.githubusercontent.com/81427391/198737349-44a42c04-0484-4e20-b2f0-ce15d90dac48.png)
 
+## Services
 ![Services](https://user-images.githubusercontent.com/81427391/198737430-14a2588c-d31c-4b21-b4eb-2b3c10899d9d.png)
 
+## Contact
 ![Contact](https://user-images.githubusercontent.com/81427391/198737548-e10e77ee-4fa0-46a1-b093-ca881c841353.png)
 
+## Chatbot
 ![chatbot](https://user-images.githubusercontent.com/81427391/198737728-3fa075c1-9e43-4347-b291-5556ad0bdd53.png)
