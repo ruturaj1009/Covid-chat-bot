@@ -47,3 +47,16 @@ This is a Informational bot application for health related to give information a
 
 ## Chatbot
 ![chatbot](https://user-images.githubusercontent.com/81427391/198737728-3fa075c1-9e43-4347-b291-5556ad0bdd53.png)
+
+### Azure Services
+##Azure bot service
+![web app bot](https://user-images.githubusercontent.com/81427391/204376091-31a8215d-19f6-4b60-a5a9-70355bee10f0.jpg)
+
+## Qna Maker
+![qnaservice](https://user-images.githubusercontent.com/81427391/204376247-c2aca587-3d60-4399-ae21-32600b65b68b.jpg)
+
+## Web App 
+![webapp](https://user-images.githubusercontent.com/81427391/204376356-8af61940-a747-43cb-9d6f-0d17f696ed44.jpg)
+
+## Cognitive service
+![cognitive service](https://user-images.githubusercontent.com/81427391/204376436-1de703f3-229c-4253-b2b9-fccd8bad946a.jpg)
